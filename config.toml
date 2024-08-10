@@ -44,7 +44,7 @@ highlight_theme = "base16-ocean-dark"
 
 [extra]
 math = false
-mermaid = false
+mermaid = true 
 comment = true
 
 [extra.style]
@@ -87,7 +87,7 @@ url = "$BASE_URL/atom.xml"
 
 [[extra.menu]]
 name = "🖼"
-url = "$BASE_URL/giography"
+url = "https://giography.vercel.app/"
 
 [[extra.menu]]
 name = "Tags"
