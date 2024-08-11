@@ -2,7 +2,7 @@
 title = "🎲 A Die⚄ to Secure your Accounts (and 2FA of course)"
 date = "2024-06-19"
 description = "A tutorial on having a system for creating passwords and securing your online accounts."
-draft = false 
+draft = true
 [extra]
 mermaid = true
 [taxonomies]

@@ -86,7 +86,7 @@ url = "$BASE_URL/atom.xml"
 # url = "$BASE_URL/archive"
 
 [[extra.menu]]
-name = "🖼"
+name = "Photofolio"
 url = "https://giography.vercel.app/"
 
 [[extra.menu]]
