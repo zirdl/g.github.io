@@ -1,7 +1,7 @@
 +++
 title = "📰 Sa Kalye Palengke"
 date = "2024-09-22"
-draft = false
+draft = true
 description = "Hanggang kailan kaya sila mananatili sa gilid ng mga lansangan?"
 [extra]
 cover_image = "./DSC07148.jpg"
