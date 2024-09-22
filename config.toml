@@ -17,6 +17,7 @@ generate_feed = true
 # The filename to use for the feed. Used as the template filename, too.
 # Defaults to "atom.xml", which has a built-in template that renders an Atom 1.0 feed.
 # There is also a built-in template "rss.xml" that renders an RSS 2.0 feed.
+
 feed_filename = "atom.xml"
 
 # The taxonomies to be rendered for the site and their configuration of the default languages
@@ -64,13 +65,17 @@ header_color = ""
 # header_dark_color = ""
 [extra.profile]
 name = "zirdl"
-bio = "Just another INTP with a boring website. More on me on the About page:}"
-avatar_url = "/imgs/dp.png"
+bio = "Welcome to the underground."
+avatar_url = "/imgs/dp.jpg"
 avatar_invert = false 
 
 [[extra.profile.social]]
 name = "github"
 url = "https://github.com/zirdl"
+
+[[extra.profile.social]]
+name = "instagram"
+url = "https://www.instagram.com/_zirdl"
 
 [[extra.profile.social]]
 name = "rss"
@@ -84,10 +89,6 @@ url = "$BASE_URL/atom.xml"
 # [[extra.menu]]
 # name = "Archives"
 # url = "$BASE_URL/archive"
-
-[[extra.menu]]
-name = "Photofolio"
-url = "https://giography.vercel.app/"
 
 [[extra.menu]]
 name = "Tags"

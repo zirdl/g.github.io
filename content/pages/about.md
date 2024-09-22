@@ -1,11 +1,12 @@
 +++
-title = "🧑🏻‍💻 TF is this about?"
+title = "🧑🏻‍💻 Who TF am I?"
 path = "about"
 +++
 
+![gomen, amanai](/imgs/amanai.jpg) 
 I'm **Gio**, a second year student of the **College of Information Systems** at [Don Mariano Marcos Memorial State University, North La Union Campus, Philippines](https://www.dmmmsu.edu.ph/category/campus/nluc/).
 
-I'm also a student-journalist, currently standing as the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with **free and open-source software**. As for my line on writing, I do write **Development Communication**, **Feature**, and **Opinion** articles. I might also have a taste on photography.
+I'm a student-journalist, currently standing as the Chief Layout Artist of the Green Valley Treasure. I mainly do my work with **free and open-source software**. As for my line on writing, I do write **Development Communication**, **Feature**, and **Opinion** articles. I'm also a photojournalist, currently honing my skills on **doumentary** and candid **street photography**.
 
 This little static website of mine was born to **share what I do without relying heavily on social media or any other service limiting my granular control.** This sudden burst of desire to publish my work online was largely inspired by reading **Austin Kleon's** **[Show Your Work.](https://austinkleon.com/show-your-work/)** Here's a quote from the book that might also resonate with you 😉.
 
