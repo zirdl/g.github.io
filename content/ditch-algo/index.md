@@ -5,7 +5,7 @@ draft = false
 description = "A comprehensive guide on aggregating news as web content using RSS feeds."
 [extra]
 [taxonomies]
-tags = ["Tuts"]
+tags = ["Tech"]
 +++
 
 
