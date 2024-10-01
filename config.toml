@@ -65,7 +65,7 @@ header_color = ""
 # header_dark_color = ""
 [extra.profile]
 name = "zirdl"
-bio = "Welcome to the underground."
+bio = "Linux | Photography | Art | Dostoevsky | Nietzsche"
 avatar_url = "/imgs/dp.jpg"
 avatar_invert = false 
 
@@ -77,9 +77,9 @@ url = "https://github.com/zirdl"
 name = "instagram"
 url = "https://www.instagram.com/_zirdl"
 
-[[extra.profile.social]]
-name = "rss"
-url = "$BASE_URL/atom.xml"
+# [[extra.profile.social]]
+# name = "rss"
+# url = "$BASE_URL/atom.xml"
 
 # [[extra.menu]]
 # name = "Projects"
